@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafael.evangelista\\ProjetoRESTFul\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
+      "projectUniqueName": "C:\\Users\\rafael.evangelista\\ProjetoRESTFul\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy 01 - Calculator\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
       "projectName": "RestWithASP-NETUdemy",
-      "projectPath": "C:\\Users\\rafael.evangelista\\ProjetoRESTFul\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
+      "projectPath": "C:\\Users\\rafael.evangelista\\ProjetoRESTFul\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy 01 - Calculator\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy.csproj",
       "packagesPath": "C:\\Users\\rafael.evangelista\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafael.evangelista\\ProjetoRESTFul\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy\\obj\\",
+      "outputPath": "C:\\Users\\rafael.evangelista\\ProjetoRESTFul\\RestWithASP-NETUdemy\\RestWithASP-NETUdemy 01 - Calculator\\RestWithASP-NETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
