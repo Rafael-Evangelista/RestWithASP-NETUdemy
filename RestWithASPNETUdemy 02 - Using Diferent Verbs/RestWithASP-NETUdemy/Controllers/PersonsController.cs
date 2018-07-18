@@ -4,7 +4,8 @@ using RestWithASPNETUdemy.Services;
 
 namespace RestWithASP_NETUdemy.Controllers
 {
-    [Route("api/[controller]")]
+    [ApiVersion("1")]
+    [Route("api/[controller]/v{version:apiVersion}")]
     public class PersonsController : Controller
     {
         private IPersonService _personService;
